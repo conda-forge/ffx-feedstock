@@ -11,6 +11,18 @@ Summary: Fast Function Extraction: A fast, scalable, and deterministic symbolic 
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ffx-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ffx-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/ffx-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ffx-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ffx-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ffx-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ffx/badges/version.svg)](https://anaconda.org/conda-forge/ffx)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ffx/badges/downloads.svg)](https://anaconda.org/conda-forge/ffx)
+
 Installing ffx
 ==============
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `ffx` available on your platform w
 ```
 conda search ffx --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ffx-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ffx-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/ffx-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ffx-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ffx-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ffx-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ffx/badges/version.svg)](https://anaconda.org/conda-forge/ffx)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ffx/badges/downloads.svg)](https://anaconda.org/conda-forge/ffx)
 
 
 Updating ffx-feedstock
